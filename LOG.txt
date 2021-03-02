@@ -1,0 +1,1028 @@
+C:\cygwin64\CCTS_reimpl\cmake-build-debug\CCTS_reimpl.exe
+Trans 1 has started at time Sat Aug  1 22:55:32 2020
+
+Trans 2 has started at time Sat Aug  1 22:55:32 2020
+
+Trans 3 has started at time Sat Aug  1 22:55:32 2020
+
+Trans 4 has started at time Sat Aug  1 22:55:32 2020
+
+Trans 5 has started at time Sat Aug  1 22:55:32 2020
+
+Trans 6 has started at time Sat Aug  1 22:55:32 2020
+
+Trans 7 has started at time Sat Aug  1 22:55:32 2020
+
+Trans 8 has started at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 8 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 4 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 3 reads 7 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 4 reads 7 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 5 reads 6 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 6 reads 8 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 7 reads 1 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 8 reads 7 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 4 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 9 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 3 reads 5 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 4 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 5 reads 1 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 8 reads 4 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 7 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 3 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 3 reads 0 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 8 reads 6 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 4 writes 4 with value 4 at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 6 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 6 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 1 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 8 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 4 writes 6 with value 4 at time Sat Aug  1 22:55:32 2020
+
+Trans 4 has committed at time Sat Aug  1 22:55:32 2020
+Trans 6 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 9 has started at time Sat Aug  1 22:55:32 2020
+
+Trans 6 writes 1 with value 6 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 9 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 6 has committed at time Sat Aug  1 22:55:32 2020
+Trans 7 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 0 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 has started at time Sat Aug  1 22:55:32 2020
+
+Trans 7 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 5 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 1 with value 6 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 reads 6 with value 4 at time Sat Aug  1 22:55:32 2020
+
+Trans 7 reads 1 with value 6 at time Sat Aug  1 22:55:32 2020
+
+Trans 5 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 3 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 8 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 reads 8 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 5 reads 6 with value 4 at time Sat Aug  1 22:55:32 2020
+
+Trans 3 writes 1 with value 3 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 reads 4 with value 4 at time Sat Aug  1 22:55:32 2020
+
+Trans 3 writes 8 with value 3 at time Sat Aug  1 22:55:32 2020
+
+Trans 5 reads 1 with value 3 at time Sat Aug  1 22:55:32 2020
+
+Trans 3 has committed at time Sat Aug  1 22:55:32 2020
+Trans 8 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 11 has started at time Sat Aug  1 22:55:32 2020
+
+Trans 8 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 1 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 11 reads 7 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 8 reads 7 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 1 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 2 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 11 reads 6 with value 4 at time Sat Aug  1 22:55:32 2020
+
+Trans 8 reads 4 with value 4 at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 8 with value 3 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 7 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 11 reads 1 with value 3 at time Sat Aug  1 22:55:32 2020
+
+Trans 8 reads 6 with value 4 at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 4 with value 4 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 4 with value 4 at time Sat Aug  1 22:55:32 2020
+
+Trans 7 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 9 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 7 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 9 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 7 reads 1 with value 3 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 10 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 6 with value 4 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 3 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 9 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 5 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 1 with value 3 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 6 with value 4 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 0 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 reads 6 with value 4 at time Sat Aug  1 22:55:32 2020
+
+Trans 5 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 11 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 8 with value 3 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 1 with value 3 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 reads 8 with value 3 at time Sat Aug  1 22:55:32 2020
+
+Trans 5 reads 6 with value 4 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 8 with value 3 at time Sat Aug  1 22:55:32 2020
+
+Trans 11 writes 1 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 reads 4 with value 4 at time Sat Aug  1 22:55:32 2020
+
+Trans 5 reads 1 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 11 writes 4 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 11 writes 6 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 11 writes 8 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 11 has committed at time Sat Aug  1 22:55:32 2020
+Trans 8 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 12 has started at time Sat Aug  1 22:55:32 2020
+
+Trans 8 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 7 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 12 reads 0 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 8 reads 7 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 7 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 1 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 12 reads 3 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 8 reads 4 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 7 reads 1 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 1 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 2 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 8 reads 6 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 8 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 9 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 4 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 4 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 10 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 7 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 9 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 9 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 5 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 6 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 3 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 0 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 reads 6 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 5 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 12 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 1 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 6 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 1 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 reads 8 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 5 reads 6 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 12 writes 3 with value 12 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 8 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 8 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 reads 4 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 5 reads 1 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 12 has committed at time Sat Aug  1 22:55:32 2020
+Trans 7 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 13 has started at time Sat Aug  1 22:55:32 2020
+
+Trans 7 writes 2 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 13 reads 8 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 7 writes 3 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 13 reads 4 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 13 reads 7 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 7 writes 4 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 7 writes 6 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 7 writes 8 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 7 has committed at time Sat Aug  1 22:55:32 2020
+Trans 8 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 14 has started at time Sat Aug  1 22:55:32 2020
+
+Trans 8 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 1 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 14 reads 7 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 8 reads 7 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 1 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 2 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 14 reads 3 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 8 reads 4 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 8 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 9 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 14 reads 5 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 8 reads 6 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 4 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 4 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 10 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 14 reads 9 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 7 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 9 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 9 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 5 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 6 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 3 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 0 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 reads 6 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 5 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 13 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 1 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 6 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 1 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 reads 8 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 5 reads 6 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 13 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 8 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 8 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 8 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 reads 4 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 5 reads 1 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 13 reads 8 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 13 reads 4 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 8 writes 8 with value 8 at time Sat Aug  1 22:55:32 2020
+
+Trans 13 reads 7 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 8 has committed at time Sat Aug  1 22:55:32 2020
+Trans 14 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 15 has started at time Sat Aug  1 22:55:32 2020
+
+Trans 14 writes 4 with value 14 at time Sat Aug  1 22:55:32 2020
+
+Trans 15 reads 8 with value 8 at time Sat Aug  1 22:55:32 2020
+
+Trans 14 writes 9 with value 14 at time Sat Aug  1 22:55:32 2020
+
+Trans 15 reads 4 with value 14 at time Sat Aug  1 22:55:32 2020
+
+Trans 14 has committed at time Sat Aug  1 22:55:32 2020
+Trans 1 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 15 reads 1 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 16 has started at time Sat Aug  1 22:55:32 2020
+
+Trans 1 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 2 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 15 reads 3 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 16 reads 5 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 8 with value 8 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 9 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 15 reads 0 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 4 with value 14 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 4 with value 14 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 10 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 7 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 9 with value 14 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 9 with value 14 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 5 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 6 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 3 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 0 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 reads 6 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 1 reads 1 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 6 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 1 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 5 writes 0 with value 5 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 reads 8 with value 8 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 8 with value 8 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 8 with value 8 at time Sat Aug  1 22:55:32 2020
+
+Trans 5 writes 5 with value 5 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 reads 4 with value 14 at time Sat Aug  1 22:55:32 2020
+
+Trans 5 writes 9 with value 5 at time Sat Aug  1 22:55:32 2020
+
+Trans 5 has committed at time Sat Aug  1 22:55:32 2020
+Trans 13 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 17 has started at time Sat Aug  1 22:55:32 2020
+
+Trans 13 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 16 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 17 reads 9 with value 5 at time Sat Aug  1 22:55:32 2020
+
+Trans 13 reads 8 with value 8 at time Sat Aug  1 22:55:32 2020
+
+Trans 16 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 15 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 17 reads 7 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 13 reads 4 with value 14 at time Sat Aug  1 22:55:32 2020
+
+Trans 16 reads 5 with value 5 at time Sat Aug  1 22:55:32 2020
+
+Trans 15 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 1 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 17 reads 2 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 13 reads 7 with value 0 at time Sat Aug  1 22:55:32 2020
+
+Trans 15 reads 8 with value 8 at time Sat Aug  1 22:55:32 2020
+
+Trans 1 writes 0 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 15 reads 4 with value 14 at time Sat Aug  1 22:55:32 2020
+
+Trans 1 writes 3 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 15 reads 1 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 1 writes 5 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 15 reads 3 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 1 writes 7 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 15 reads 0 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 1 writes 8 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 1 has committed at time Sat Aug  1 22:55:32 2020
+Trans 2 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 18 has started at time Sat Aug  1 22:55:32 2020
+
+Trans 2 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 9 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 18 reads 4 with value 14 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 4 with value 14 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 10 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 18 reads 8 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 9 with value 5 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 9 with value 5 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 16 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 3 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 0 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 reads 6 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 16 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 17 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 6 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 1 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 reads 8 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 16 reads 5 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 17 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 13 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 8 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 8 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 reads 4 with value 14 at time Sat Aug  1 22:55:32 2020
+
+Trans 17 reads 9 with value 5 at time Sat Aug  1 22:55:32 2020
+
+Trans 13 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 15 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 17 reads 7 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 13 reads 8 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 15 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 18 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 17 reads 2 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 13 reads 4 with value 14 at time Sat Aug  1 22:55:32 2020
+
+Trans 15 reads 8 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 18 writes 0 with value 18 at time Sat Aug  1 22:55:32 2020
+
+Trans 13 reads 7 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 15 reads 4 with value 14 at time Sat Aug  1 22:55:32 2020
+
+Trans 18 writes 2 with value 18 at time Sat Aug  1 22:55:32 2020
+
+Trans 15 reads 1 with value 11 at time Sat Aug  1 22:55:32 2020
+
+Trans 18 writes 3 with value 18 at time Sat Aug  1 22:55:32 2020
+
+Trans 18 writes 4 with value 18 at time Sat Aug  1 22:55:32 2020
+
+Trans 15 reads 3 with value 18 at time Sat Aug  1 22:55:32 2020
+
+Trans 18 has committed at time Sat Aug  1 22:55:32 2020
+Trans 16 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 15 reads 0 with value 18 at time Sat Aug  1 22:55:32 2020
+
+Trans 19 has started at time Sat Aug  1 22:55:32 2020
+
+Trans 16 writes 1 with value 16 at time Sat Aug  1 22:55:32 2020
+
+Trans 16 has committed at time Sat Aug  1 22:55:32 2020
+Trans 2 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 20 has started at time Sat Aug  1 22:55:32 2020
+
+Trans 2 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 9 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 20 reads 7 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 4 with value 18 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 10 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 20 reads 8 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 9 with value 5 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 9 with value 5 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 17 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 20 reads 3 with value 18 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 3 with value 18 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 0 with value 18 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 reads 6 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 17 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 13 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 20 reads 1 with value 16 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 6 with value 7 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 1 with value 16 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 reads 8 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 17 reads 9 with value 5 at time Sat Aug  1 22:55:32 2020
+
+Trans 15 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 13 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 20 reads 2 with value 18 at time Sat Aug  1 22:55:32 2020
+
+Trans 2 reads 8 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 9 reads 8 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 10 reads 4 with value 18 at time Sat Aug  1 22:55:32 2020
+
+Trans 17 reads 7 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 15 has aborted at time Sat Aug  1 22:55:32 2020
+. Restarting thread!
+Trans 19 enters val write at time Sat Aug  1 22:55:32 2020
+
+Trans 13 reads 8 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 17 reads 2 with value 18 at time Sat Aug  1 22:55:32 2020
+
+Trans 15 reads 8 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 19 writes 0 with value 19 at time Sat Aug  1 22:55:32 2020
+
+Trans 13 reads 4 with value 18 at time Sat Aug  1 22:55:32 2020
+
+Trans 15 reads 4 with value 18 at time Sat Aug  1 22:55:32 2020
+
+Trans 19 writes 1 with value 19 at time Sat Aug  1 22:55:32 2020
+
+Trans 13 reads 7 with value 1 at time Sat Aug  1 22:55:32 2020
+
+Trans 19 writes 2 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 15 reads 1 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 19 writes 6 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 15 reads 3 with value 18 at time Sat Aug  1 22:55:33 2020
+
+Trans 19 writes 8 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 15 reads 0 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 19 has committed at time Sat Aug  1 22:55:33 2020
+Trans 20 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 20 has aborted at time Sat Aug  1 22:55:33 2020
+. Restarting thread!
+Trans 2 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 20 reads 7 with value 1 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 has aborted at time Sat Aug  1 22:55:33 2020
+. Restarting thread!
+Trans 9 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 20 reads 8 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 4 with value 18 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 has aborted at time Sat Aug  1 22:55:33 2020
+. Restarting thread!
+Trans 10 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 20 reads 3 with value 18 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 9 with value 5 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 reads 9 with value 5 at time Sat Aug  1 22:55:33 2020
+
+Trans 10 has aborted at time Sat Aug  1 22:55:33 2020
+. Restarting thread!
+Trans 17 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 20 reads 1 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 3 with value 18 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 reads 0 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 10 reads 6 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 17 has aborted at time Sat Aug  1 22:55:33 2020
+. Restarting thread!
+Trans 13 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 20 reads 2 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 6 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 reads 1 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 10 reads 8 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 17 reads 9 with value 5 at time Sat Aug  1 22:55:33 2020
+
+Trans 13 has aborted at time Sat Aug  1 22:55:33 2020
+. Restarting thread!
+Trans 15 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 8 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 reads 8 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 10 reads 4 with value 18 at time Sat Aug  1 22:55:33 2020
+
+Trans 17 reads 7 with value 1 at time Sat Aug  1 22:55:33 2020
+
+Trans 13 reads 8 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 15 has aborted at time Sat Aug  1 22:55:33 2020
+. Restarting thread!
+Trans 20 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 17 reads 2 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 13 reads 4 with value 18 at time Sat Aug  1 22:55:33 2020
+
+Trans 15 reads 8 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 20 writes 0 with value 20 at time Sat Aug  1 22:55:33 2020
+
+Trans 13 reads 7 with value 1 at time Sat Aug  1 22:55:33 2020
+
+Trans 15 reads 4 with value 18 at time Sat Aug  1 22:55:33 2020
+
+Trans 20 writes 1 with value 20 at time Sat Aug  1 22:55:33 2020
+
+Trans 20 writes 9 with value 20 at time Sat Aug  1 22:55:33 2020
+
+Trans 15 reads 1 with value 20 at time Sat Aug  1 22:55:33 2020
+
+Trans 20 has committed at time Sat Aug  1 22:55:33 2020
+Trans 2 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 15 reads 3 with value 18 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 has aborted at time Sat Aug  1 22:55:33 2020
+. Restarting thread!
+Trans 9 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 15 reads 0 with value 20 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 4 with value 18 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 has aborted at time Sat Aug  1 22:55:33 2020
+. Restarting thread!
+Trans 10 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 9 with value 20 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 reads 9 with value 20 at time Sat Aug  1 22:55:33 2020
+
+Trans 10 writes 0 with value 10 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 3 with value 18 at time Sat Aug  1 22:55:33 2020
+
+Trans 10 writes 4 with value 10 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 reads 0 with value 10 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 6 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 reads 1 with value 20 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 8 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 10 writes 6 with value 10 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 reads 8 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 10 writes 9 with value 10 at time Sat Aug  1 22:55:33 2020
+
+Trans 10 has committed at time Sat Aug  1 22:55:33 2020
+Trans 17 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 17 has aborted at time Sat Aug  1 22:55:33 2020
+. Restarting thread!
+Trans 13 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 17 reads 9 with value 10 at time Sat Aug  1 22:55:33 2020
+
+Trans 13 has aborted at time Sat Aug  1 22:55:33 2020
+. Restarting thread!
+Trans 15 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 17 reads 7 with value 1 at time Sat Aug  1 22:55:33 2020
+
+Trans 13 reads 8 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 15 has aborted at time Sat Aug  1 22:55:33 2020
+. Restarting thread!
+Trans 2 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 17 reads 2 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 13 reads 4 with value 10 at time Sat Aug  1 22:55:33 2020
+
+Trans 15 reads 8 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 has aborted at time Sat Aug  1 22:55:33 2020
+. Restarting thread!
+Trans 9 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 13 reads 7 with value 1 at time Sat Aug  1 22:55:33 2020
+
+Trans 15 reads 4 with value 10 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 4 with value 10 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 has aborted at time Sat Aug  1 22:55:33 2020
+. Restarting thread!
+Trans 17 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 15 reads 1 with value 20 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 9 with value 10 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 reads 9 with value 10 at time Sat Aug  1 22:55:33 2020
+
+Trans 17 writes 6 with value 17 at time Sat Aug  1 22:55:33 2020
+
+Trans 15 reads 3 with value 18 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 3 with value 18 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 reads 0 with value 10 at time Sat Aug  1 22:55:33 2020
+
+Trans 17 writes 9 with value 17 at time Sat Aug  1 22:55:33 2020
+
+Trans 15 reads 0 with value 10 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 6 with value 17 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 reads 1 with value 20 at time Sat Aug  1 22:55:33 2020
+
+Trans 17 has committed at time Sat Aug  1 22:55:33 2020
+Trans 13 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 8 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 reads 8 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 13 writes 1 with value 13 at time Sat Aug  1 22:55:33 2020
+
+Trans 13 writes 2 with value 13 at time Sat Aug  1 22:55:33 2020
+
+Trans 13 writes 5 with value 13 at time Sat Aug  1 22:55:33 2020
+
+Trans 13 has committed at time Sat Aug  1 22:55:33 2020
+Trans 15 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 15 has aborted at time Sat Aug  1 22:55:33 2020
+. Restarting thread!
+Trans 2 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 15 reads 8 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 has aborted at time Sat Aug  1 22:55:33 2020
+. Restarting thread!
+Trans 9 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 15 reads 4 with value 10 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 4 with value 10 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 has aborted at time Sat Aug  1 22:55:33 2020
+. Restarting thread!
+Trans 15 reads 1 with value 13 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 9 with value 17 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 reads 9 with value 17 at time Sat Aug  1 22:55:33 2020
+
+Trans 15 reads 3 with value 18 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 3 with value 18 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 reads 0 with value 10 at time Sat Aug  1 22:55:33 2020
+
+Trans 15 reads 0 with value 10 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 6 with value 17 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 reads 1 with value 13 at time Sat Aug  1 22:55:33 2020
+
+Trans 15 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 8 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 reads 8 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 15 writes 3 with value 15 at time Sat Aug  1 22:55:33 2020
+
+Trans 15 writes 4 with value 15 at time Sat Aug  1 22:55:33 2020
+
+Trans 15 writes 6 with value 15 at time Sat Aug  1 22:55:33 2020
+
+Trans 15 has committed at time Sat Aug  1 22:55:33 2020
+Trans 2 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 2 has aborted at time Sat Aug  1 22:55:33 2020
+. Restarting thread!
+Trans 9 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 4 with value 15 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 writes 0 with value 9 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 9 with value 17 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 3 with value 15 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 writes 9 with value 9 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 6 with value 15 at time Sat Aug  1 22:55:33 2020
+
+Trans 9 has committed at time Sat Aug  1 22:55:33 2020
+Trans 2 reads 8 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 2 has aborted at time Sat Aug  1 22:55:33 2020
+. Restarting thread!
+Trans 2 reads 4 with value 15 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 9 with value 9 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 3 with value 15 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 6 with value 15 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 reads 8 with value 19 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 enters val write at time Sat Aug  1 22:55:33 2020
+
+Trans 2 writes 5 with value 2 at time Sat Aug  1 22:55:33 2020
+
+Trans 2 has committed at time Sat Aug  1 22:55:33 2020
+All threads have terminated!
+
+Process finished with exit code 0
